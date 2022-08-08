@@ -1,8 +1,4 @@
 from history import History
-from random import randint
-from turtle import Turtle, Screen
-
-'''This will be the driver code for the project'''
 
 if __name__ == "__main__":
 	print("-----------------------------------------------------")
